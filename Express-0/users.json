@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "first_name": "Alberik",
+        "last_name": "Morais",
+        "email": "amorais0@latimes.com",
+        "gender": "Male",
+        "ip_address": "23.217.162.184"
+    },
+    {
+        "id": 2,
+        "first_name": "Fleurette",
+        "last_name": "Twigg",
+        "email": "ftwigg1@toplist.cz",
+        "gender": "Female",
+        "ip_address": "133.237.138.116"
+    },
+    {
+        "id": 3,
+        "first_name": "Matelda",
+        "last_name": "Tippler",
+        "email": "mtippler2@photobucket.com",
+        "gender": "Female",
+        "ip_address": "173.177.68.126"
+    },
+    {
+        "id": 4,
+        "first_name": "Gunther",
+        "last_name": "Renvoys",
+        "email": "grenvoys3@wordpress.org",
+        "gender": "Male",
+        "ip_address": "139.112.182.134"
+    },
+    {
+        "id": 5,
+        "first_name": "Tomlin",
+        "last_name": "Broadbere",
+        "email": "tbroadbere4@arizona.edu",
+        "gender": "Male",
+        "ip_address": "241.21.6.157"
+    },
+    {
+        "id": 6,
+        "first_name": "Tomasine",
+        "last_name": "Baillie",
+        "email": "tbaillie5@unc.edu",
+        "gender": "Female",
+        "ip_address": "154.253.178.178"
+    },
+    {
+        "id": 7,
+        "first_name": "Mindy",
+        "last_name": "Gallard",
+        "email": "mgallard6@php.net",
+        "gender": "Genderqueer",
+        "ip_address": "121.229.118.196"
+    },
+    {
+        "id": 8,
+        "first_name": "Natasha",
+        "last_name": "Barton",
+        "email": "nbarton7@china.com.cn",
+        "gender": "Female",
+        "ip_address": "198.88.197.62"
+    },
+    {
+        "id": 9,
+        "first_name": "Rosemarie",
+        "last_name": "Hulson",
+        "email": "rhulson8@github.com",
+        "gender": "Female",
+        "ip_address": "90.179.141.6"
+    },
+    {
+        "id": 10,
+        "first_name": "Mayne",
+        "last_name": "O'Hallagan",
+        "email": "mohallagan9@cnn.com",
+        "gender": "Agender",
+        "ip_address": "74.212.197.198"
+    }
+]
